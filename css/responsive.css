@@ -76,7 +76,7 @@
   }
 
   .teammate {
-    min-width: calc(44% - 11.25px);
+    width: 47%;
   }
   .teammates-list-wrapper {
     flex-wrap: wrap;
